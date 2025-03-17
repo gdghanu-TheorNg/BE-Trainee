@@ -17,6 +17,8 @@ public class StringHandling {
         System.out.println("StringBuffer: " + sbf);
 
         // String pool
+        // String pool is a storage area in Java heap memory where strings are stored
+        // to reuse them. When a string is created, it is stored in the string pool.
         String s1 = "Java";
         String s2 = "Java";
         System.out.println("String pool check (s1 == s2): " + (s1 == s2)); // True due to string pool
