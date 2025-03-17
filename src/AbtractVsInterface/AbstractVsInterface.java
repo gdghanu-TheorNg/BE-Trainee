@@ -1,4 +1,4 @@
-package AbtractAndInterface;
+package AbtractVsInterface;
 
 abstract class Shape {
     abstract void draw();
