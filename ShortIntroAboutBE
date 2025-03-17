@@ -1,0 +1,13 @@
+Giới thiệu về Back-end và vai trò của Java
+
+Back-end là gì?
+- Back-end là phần "phía sau" của một ứng dụng, chịu trách nhiệm xử lý logic, dữ liệu, và giao tiếp với cơ sở dữ liệu.
+- Ví dụ: Xử lý đăng nhập, lưu trữ dữ liệu, quản lý API.
+
+Vai trò của Java trong Back-end:
+- Java là một ngôn ngữ mạnh mẽ, được sử dụng rộng rãi để xây dựng back-end nhờ tính ổn định và bảo mật cao.
+- Thường được dùng với các framework như Spring Boot để phát triển ứng dụng web và server-side.
+- Hỗ trợ xử lý đa luồng (multithreading) và kết nối cơ sở dữ liệu (JDBC, Hibernate).
+
+Kết luận:
+Java là lựa chọn phổ biến cho back-end nhờ hiệu suất và khả năng mở rộng.

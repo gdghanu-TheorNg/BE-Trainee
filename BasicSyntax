@@ -1,0 +1,31 @@
+Cú pháp cơ bản của Java
+
+1. Cấu trúc cơ bản của một chương trình Java:
+- Mọi chương trình Java bắt đầu với class.
+- Phương thức main() là điểm vào của chương trình.
+Ví dụ:
+    public class HelloWorld {
+        public static void main(String[] args) {
+            System.out.println("Hello, World!");
+        }
+    }
+
+2. Quy tắc đặt tên:
+- Class: Bắt đầu bằng chữ cái in hoa (VD: MyClass).
+- Biến/phương thức: Dùng camelCase (VD: myVariable).
+
+3. Các thành phần cơ bản:
+- Kiểu dữ liệu: int, double, String, boolean, v.v.
+- Toán tử: +, -, *, /, %, ==, !=, v.v.
+- Câu lệnh điều kiện: if, else, switch.
+- Vòng lặp: for, while, do-while.
+
+4. Ghi chú (Comment):
+- Dòng đơn: // Đây là ghi chú
+- Đa dòng: /* Đây là ghi chú đa dòng */
+
+5. Ví dụ đơn giản:
+    int a = 5;
+    int b = 10;
+    int sum = a + b;
+    System.out.println("Tổng: " + sum); // In ra: Tổng: 15
